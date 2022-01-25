@@ -12,8 +12,11 @@
 <h3>Installation</h3>
 
  `$ git clone https://github.com/thebozturk/rabbitmq-tutorial.git` 
+ 
  `$ cd  rabbitmq-tutorial `
+ 
  `$ npm install `
+ <br>
 
  <h2>Usage</h2>
  
